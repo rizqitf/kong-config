@@ -1,0 +1,9 @@
+[Unit]
+Description=Grafana
+
+[Service]
+User=root
+ExecStart=/opt/grafana/bin/grafana-server -homepath /opt/grafana/ web
+
+[Install]
+WantedBy=default.target
