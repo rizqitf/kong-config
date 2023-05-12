@@ -71,7 +71,7 @@
     ]
   },
   "description": "Dashboard that graphs metrics exported via Prometheus plugin in Kong (http://github.com/kong/kong)",
-  "editable": true,
+  "editable": false,
   "fiscalYearStartMonth": 0,
   "gnetId": 7424,
   "graphTooltip": 0,
